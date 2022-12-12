@@ -1,0 +1,6 @@
+﻿  Assembling main.asm...
+main.asm(155): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(155): warning A6004: procedure argument or local not referenced : cmdLine
+main.asm(183): warning A6004: procedure argument or local not referenced : hPrevInst
+main.asm(183): warning A6004: procedure argument or local not referenced : cmdLine
+  EjemploClaseWinAPIEnsamblador.vcxproj -> C:\Users\carlo\source\repos\EjemploClaseWinAPIEnsamblador\Debug\EjemploClaseWinAPIEnsamblador.exe
